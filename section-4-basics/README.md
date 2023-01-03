@@ -33,7 +33,10 @@ git add fileName.extension
 ```shell
 git commit -m "your message"
 ```
-
+we can add and commit in one line
+```shell
+git commit am - "add and commit in single line"
+```
 4. push to git
 ```shell
 git push
