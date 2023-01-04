@@ -3,5 +3,8 @@ song b
 r1
 r2
 br1
-br2
-stashing example
+stashing text
+stshing branch text below
+             stsh 1
+             stsh 2
+             stsh 3
