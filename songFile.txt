@@ -8,3 +8,7 @@ stshing branch text below
              stsh 1
              stsh 2
              stsh 3
+stashing 4
+stashing 5
+stashing 6
+let check what is git stash
