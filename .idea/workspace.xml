@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c295431-3602-4fed-be67-263a2d616ee5" name="Changes" comment="gibrish on stashing">
-      <change afterPath="$PROJECT_DIR$/timeTravel.txt" afterDir="false" />
+    <list default="true" id="0c295431-3602-4fed-be67-263a2d616ee5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeTravel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/timeTravel.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1672892908918" duration="90000" />
       <workItem from="1672929195967" duration="279000" />
       <workItem from="1672977792885" duration="561000" />
-      <workItem from="1673107963897" duration="490000" />
+      <workItem from="1673107963897" duration="562000" />
     </task>
     <task id="LOCAL-00001" summary="checking">
       <created>1672665088165</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672806748418</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="create a new file timeTravel">
+      <created>1673108478907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673108478907</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +205,7 @@
     <MESSAGE value="added one line in songFile" />
     <MESSAGE value="adding text on master for stashing conflict" />
     <MESSAGE value="gibrish on stashing" />
-    <option name="LAST_COMMIT_MESSAGE" value="gibrish on stashing" />
+    <MESSAGE value="create a new file timeTravel" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a new file timeTravel" />
   </component>
 </project>

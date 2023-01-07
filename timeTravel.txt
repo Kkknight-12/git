@@ -1,1 +1,3 @@
-lets add something and make a commit
+let's add something and make a commit
+
+1 - added a line one to make commit
