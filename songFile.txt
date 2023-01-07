@@ -3,12 +3,27 @@ song b
 r1
 r2
 br1
-stashing text
-stshing branch text below
-             stsh 1
-             stsh 2
-             stsh 3
-stashing 4
-stashing 5
-stashing 6
-let check what is git stash
+
+###
+lets practice stashing
+
+class Solution {
+    public int compress(char[] chars) {
+        int ans = 0, i = 0;
+        while(i < chars.length){
+            char curr = chars[i];
+            int count= 0;
+            while(i < chars.length && chars[i] == curr){
+                i++;
+                count++;
+            }
+            chars[ans++] = curr;
+            if(count != 1){
+                for(char c: Integer.toString(count).toCharArray()){
+                    chars[ans++] = c;
+                }
+            }
+        }
+        return ans;
+    }
+}
