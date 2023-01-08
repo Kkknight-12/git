@@ -2,3 +2,4 @@ let's add something and make a commit
 
 1 - added a line one to make commit
 2 - added line 2
+3 - added line 3
