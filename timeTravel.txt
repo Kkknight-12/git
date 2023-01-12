@@ -8,3 +8,4 @@ let's add something and make a commit
 
 Mistake commit 1
 Mistake commit 2
+Mistake commit 3
