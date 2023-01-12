@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c295431-3602-4fed-be67-263a2d616ee5" name="Changes" comment="">
+    <list default="true" id="0c295431-3602-4fed-be67-263a2d616ee5" name="Changes" comment="time travel commit line 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timeTravel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/timeTravel.txt" afterDir="false" />
     </list>
@@ -29,7 +29,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="time-t-branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,6 +81,8 @@
       <workItem from="1672929195967" duration="279000" />
       <workItem from="1672977792885" duration="561000" />
       <workItem from="1673107963897" duration="562000" />
+      <workItem from="1673178529129" duration="886000" />
+      <workItem from="1673234062053" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="checking">
       <created>1672665088165</created>
@@ -166,7 +168,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673108478907</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="time travel commit line 1">
+      <created>1673179384535</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673179384535</updated>
+    </task>
+    <task id="LOCAL-00014" summary="time travel commit line 2">
+      <created>1673179607637</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673179607637</updated>
+    </task>
+    <task id="LOCAL-00015" summary="time travel commit line 3">
+      <created>1673179621534</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673179621534</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +229,9 @@
     <MESSAGE value="adding text on master for stashing conflict" />
     <MESSAGE value="gibrish on stashing" />
     <MESSAGE value="create a new file timeTravel" />
-    <option name="LAST_COMMIT_MESSAGE" value="create a new file timeTravel" />
+    <MESSAGE value="time travel commit line 1" />
+    <MESSAGE value="time travel commit line 2" />
+    <MESSAGE value="time travel commit line 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="time travel commit line 3" />
   </component>
 </project>
